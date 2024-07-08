@@ -26,7 +26,7 @@ This project is a full-stack web application for managing customers. The backend
 ### Installation
 
 1. Clone the repository:
-   git clone
+   git clone https://github.com/khagga926/customer-module.git
 
 2. Navigate to the backend directory and install dependencies:
    cd backend
