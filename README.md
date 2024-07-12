@@ -56,7 +56,7 @@ This project is a full-stack web application for managing customers. The backend
    npm start
 
 2. Start the frontend development server:
-   cd frontend
+   cd frontend/customer-module-frontend
    npm run serve
 
 ### Features
